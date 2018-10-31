@@ -1,2 +1,2 @@
 # WeatherStation
-A clock with inside and outside temperature display
+A clock with an inside and outside temperature display
